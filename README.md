@@ -1,2 +1,2 @@
 # XIAOCI.github.io
-网页
+邮件
